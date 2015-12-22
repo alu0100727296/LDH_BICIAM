@@ -1,4 +1,4 @@
 language: java
 jdk:
 - oraclejdk8
-script: jkd_switcher use oraclejdk8
+script: jdk_switcher use oraclejdk8
